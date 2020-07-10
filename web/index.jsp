@@ -11,6 +11,7 @@
   <title>登录界面</title>
 </head>
 <body>
+
 <form action="LoginServlet.action" method="post">
   <table>
     <tr>
