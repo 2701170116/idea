@@ -14,6 +14,7 @@
 <form action="LoginServlet.action" method="post">
   <table>
     <tr>
+
       <td>用户名：</td>
       <td><input type="text" name="username"></td>
     </tr>
