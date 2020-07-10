@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <title>Millet</title>
+  <title>登录界面</title>
 </head>
 <body>
 <form action="LoginServlet.action" method="post">
