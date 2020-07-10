@@ -33,8 +33,7 @@
       </td>
 
       <td>
-
-        <input type="reset" value="取消">
+          <input type="reset" value="取消">
       </td>
     </tr>
   </table>
